@@ -2,7 +2,6 @@
 🌟 About Me<br><br>Currently learning React JS and Django<br>Have basic knowledge of C, C++, and Java<br>Familiar with HTML, CSS, and JavaScript for web development
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Apil Neupane) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/apil.neupane.35) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/apil_neu/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apil-neupane-9512b3293/) 
